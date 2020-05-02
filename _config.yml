@@ -6,7 +6,7 @@
 name: Honghyk
 
 # Short bio or description (displayed in the header)
-description:
+description: 
 
 #
 # Flags below are optional
@@ -39,7 +39,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/honghyk
+  github: honghyk
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
